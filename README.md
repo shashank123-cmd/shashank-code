@@ -1,4 +1,4 @@
 # shashank-code
-Author:- shashank (waingankar)
+Author:- shashank (waing)
 <br>
 It is just coding file
